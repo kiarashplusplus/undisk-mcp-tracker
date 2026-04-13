@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Support
+    url: https://mcp.undisk.app/support
+    about: For account or billing questions
+  - name: Documentation
+    url: https://mcp.undisk.app/docs
+    about: Read the full docs before filing
