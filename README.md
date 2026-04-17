@@ -1,6 +1,6 @@
-# Undisk MCP — Issue Tracker
+# Undisk MCP (mcp.undisk.app)
 
-Public issue tracker for [Undisk MCP](https://mcp.undisk.app) — undo-first versioned file storage for AI agents.
+This repository is a public issue tracker for [Undisk MCP](https://mcp.undisk.app) versioned file storage for AI agents.
 
 ## What is Undisk MCP?
 
