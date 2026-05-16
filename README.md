@@ -6,7 +6,10 @@ This repository is a public issue tracker for [Undisk MCP](https://mcp.undisk.ap
 
 Undisk sits between AI agents and the filesystem over [MCP](https://spec.modelcontextprotocol.io). Every write creates an immutable version. Every action is audited. Any change can be reversed in a single call. The agent gets full capability; the human keeps full control.
 
-**20+ MCP tools** covering file operations, version control, workspace administration, introspection, and sandboxed compute.
+**25 MCP tools** covering file operations, version control, workspace administration, introspection, and sandboxed compute.
+
+**Now available on:** 
+[![smithery badge](https://smithery.ai/badge/kiarasha/undisk-mcp)](https://smithery.ai/servers/kiarasha/undisk-mcp)
 
 ## Reporting Issues
 
